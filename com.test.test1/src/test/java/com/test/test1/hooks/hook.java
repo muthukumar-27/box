@@ -12,7 +12,7 @@ public class hook {
 	@Before()
 	public void bf1()
 	{
-		System.out.println("before.one..");
+		System.out.println("before.one.....");
 	}
 	
 	
